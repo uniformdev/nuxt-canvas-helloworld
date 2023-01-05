@@ -1,5 +1,11 @@
 # Uniform Canvas hello world app
 
+### ⚠️ This project is not maintained anymore.
+#### Please use our new tutorial: https://docs.uniform.app/tutorials/getting-started
+
+
+----
+
 This Nuxt app is generated with `npx create-nuxt-app` and it is a supporting asset for the Uniform Canvas tutorial for Nuxt available [here](https://docs.uniform.app/canvas/tutorials/nuxtjs-tutorial).
 
 ## Environment variables.
